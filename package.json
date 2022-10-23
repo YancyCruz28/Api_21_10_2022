@@ -1,0 +1,25 @@
+{
+  "name": "api_21_10_2022",
+  "version": "1.0.0",
+  "description": "Captura datos web consumiendo api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YancyCruz28/Api_21_10_2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YancyCruz28/Api_21_10_2022/issues"
+  },
+  "homepage": "https://github.com/YancyCruz28/Api_21_10_2022#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
